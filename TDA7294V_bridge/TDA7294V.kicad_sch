@@ -2447,6 +2447,28 @@
 		)
 		(uuid "ac85eaca-9da1-4ae6-a677-5bbf783c3693")
 	)
+	(label "+Vcc"
+		(at 97.79 19.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "27eef0f0-3231-44f9-9053-521b5362cc13")
+	)
+	(label "-Vcc"
+		(at 100.33 34.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d018d81-002a-4c64-9e5d-4a41a7c2fb1f")
+	)
 	(label "Mute{slash}st-by"
 		(at 151.13 41.91 0)
 		(fields_autoplaced yes)

@@ -173,7 +173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -197,7 +197,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -209,7 +209,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/2ca36d71-ef1c-4178-8979-7c737df55e1d")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -443,7 +445,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -455,7 +457,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.st.com/resource/en/datasheet/tda7294.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -467,7 +469,7 @@
 				)
 			)
 		)
-		(property "Description" "100V - 100W DMOS Audio Amplifier with Mute/St-by, TO-220-15"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -479,7 +481,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO?220*StaggerOdd*")
 		(path "/5e76eff0-936c-4bcf-9ae2-df7a5032a5d4")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1107,7 +1111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1131,7 +1135,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1143,7 +1147,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e1ef39e7-d1fa-45cd-80fe-2ac39a4b8a0e")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1592,7 +1598,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1616,7 +1622,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1628,7 +1634,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/ceef8362-834f-4b86-9d68-2c0e4903bad6")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1822,7 +1830,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1846,7 +1854,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1858,7 +1866,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/c2464801-2520-4d7b-b8be-82c5bf109b4a")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2072,7 +2082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2084,7 +2094,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.st.com/resource/en/datasheet/tda7294.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2096,7 +2106,7 @@
 				)
 			)
 		)
-		(property "Description" "100V - 100W DMOS Audio Amplifier with Mute/St-by, TO-220-15"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2108,7 +2118,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO?220*StaggerOdd*")
 		(path "/f027ac80-4223-4f82-9fce-cd140729994e")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2736,7 +2748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2748,7 +2760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2760,7 +2772,7 @@
 				)
 			)
 		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
+		(property "Description" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2796,7 +2808,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "D*DO?35*")
 		(path "/61e69479-9b39-48bf-8b8b-08f7f242ca30")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3114,7 +3128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3138,7 +3152,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3150,7 +3164,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/d513295c-1d18-47cc-8df5-92ac96d8987d")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3344,7 +3360,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3368,7 +3384,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3380,7 +3396,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/6ced07ef-3fed-4307-b7ff-7cab4bacd52b")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3594,7 +3612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3618,7 +3636,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3630,7 +3648,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/82b3d3c3-2b46-4ba4-b722-5d974576d94d")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5327,7 +5347,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5351,7 +5371,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5363,7 +5383,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/4a854d78-7299-4c57-9d64-865e725e2d19")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5557,7 +5579,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5581,7 +5603,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5593,7 +5615,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/997802a0-031a-455c-bab8-0cc863356d73")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5787,7 +5811,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5811,7 +5835,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5823,7 +5847,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/dfe9730c-94c1-461d-a6ec-bad7294a59d1")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6017,7 +6043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6041,7 +6067,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6053,7 +6079,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/edbdd0a6-9286-45ed-9526-c0b507e0186a")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6247,7 +6275,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6271,7 +6299,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6283,7 +6311,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/4db253fe-23d3-4fe0-80bd-a156a7bfc442")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8750,7 +8780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8774,7 +8804,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8786,7 +8816,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/db0c5711-d3d2-4e4f-b1a0-c0d79466598e")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9000,7 +9032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9024,7 +9056,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9036,7 +9068,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/d32f412b-2a15-4c25-93c5-274cdc09dfd8")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9230,7 +9264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9254,7 +9288,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9266,7 +9300,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/f596e06c-8334-4e2f-a1ee-e69ce6d1321f")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -10963,7 +10999,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10987,7 +11023,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10999,7 +11035,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/da434721-21cd-4483-8ba8-8bf6a2b4b496")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -11193,7 +11231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11217,7 +11255,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11229,7 +11267,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/c80a95b5-735c-4202-9f2b-d39c6166a947")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -12926,7 +12966,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12950,7 +12990,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12962,7 +13002,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/1853be1b-44d7-4015-ac83-62959d0df3d2")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13156,7 +13198,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13180,7 +13222,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13192,7 +13234,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/cbbc2e83-f44d-414b-b960-8b0120a6fd32")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14889,7 +14933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14913,7 +14957,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14925,7 +14969,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fa7dfeda-79e9-45e2-a7b5-5f02476783eb")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15456,7 +15502,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15480,7 +15526,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15492,7 +15538,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/33d161c6-0910-44d6-8d70-b520086583d6")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15706,7 +15754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15730,7 +15778,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15742,7 +15790,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/ccb08df2-7ae5-4e84-85f9-b6ee7d1ce810")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18209,7 +18259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18233,7 +18283,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18245,7 +18295,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fc499896-4a10-4840-a179-cf9395f3b4d4")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18596,7 +18648,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18620,7 +18672,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18632,7 +18684,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/8a1e5020-ceee-4696-bc06-5190da404069")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18790,7 +18844,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18814,7 +18868,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18826,7 +18880,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8b7d93d6-f35e-48a5-b637-1775310c2a5e")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19177,7 +19233,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19201,7 +19257,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19213,7 +19269,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/b82b89bc-8beb-42d1-850d-07e391dfc59a")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19427,7 +19485,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19451,7 +19509,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19463,7 +19521,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/3fc9f62f-bfcf-412e-a380-d6692192c475")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19697,7 +19757,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19721,7 +19781,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19733,7 +19793,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "CP_*")
 		(path "/0172c9be-255c-4eb0-a46e-3b8664715c6f")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19891,7 +19953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19915,7 +19977,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19927,7 +19989,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/2e92e04c-9ee4-43ba-b244-869a2bcbcc08")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -20121,7 +20185,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20145,7 +20209,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20157,7 +20221,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/112b6bc9-c70e-4936-a369-0424f9a264e7")
+		(sheetname "Root")
 		(sheetfile "TDA7294V.kicad_sch")
 		(attr through_hole)
 		(fp_line
