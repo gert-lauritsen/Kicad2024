@@ -1,0 +1,28 @@
+Drill report for TDA7294V.kicad_pcb
+Created on 2024-03-26T18:20:14+0100
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'TDA7294V-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (82 holes)
+    T2  0.700mm  0.0276"  (20 holes)
+    T3  0.800mm  0.0315"  (30 holes)
+    T4  1.000mm  0.0394"  (30 holes)
+    T5  1.200mm  0.0472"  (8 holes)
+    T6  1.400mm  0.0551"  (5 holes)
+
+    Total plated holes count 175
+
+
+Drill file 'TDA7294V-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.700mm  0.0669"  (4 holes)
+
+    Total unplated holes count 4
